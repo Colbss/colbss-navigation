@@ -1,4 +1,4 @@
-# colbss-geospatial
+# colbss-navigation
 
 This is a script for qb-core that gives a few navigation features, including a compass and a postal finder.
 
@@ -16,7 +16,7 @@ The postal functionality is intended for: https://forum.cfx.re/t/free-release-po
 
 Download the zip and extract it into your resource folder. Make sure to remove the ```-master``` extension from the folder name.
 
-Add ``start colbss-geospatial`` or ``ensure colbss-geospatial`` to your server.cfg or mods.cfg if you use one.
+Add ``start colbss-navigation`` or ``ensure colbss-navigation`` to your server.cfg or mods.cfg if you use one.
 
 ### Commands
 `/compass` - Toggle the compass on and off
