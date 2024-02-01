@@ -38,7 +38,6 @@ TriggerEvent('chat:addSuggestion', '/compass', 'Toggle the compass on / off')
 
 RegisterCommand('compass', function(_, args)
 	compass.show = not compass.show
-	print("Show compass? " .. tostring(compass.show))
 end)
 
 -- Converts degrees to (inter)cardinal directions.
