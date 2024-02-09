@@ -2,6 +2,9 @@
 
 This is a script for qb-core that gives a few navigation features, including a compass and a postal finder.
 
+Preview:
+https://medal.tv/games/gta-v/clips/1SDvEWw9PukBN3/d1337BqYQN3j?invite=cr-MSxidUssMTk0MjYxNTAzLA
+
 <u>**NOTE:**</u> The main functions of this script are <u>NOT</u> made by me. I have only combined / tweaked parts of other scripts into this one script.
 
 Compass used from:
